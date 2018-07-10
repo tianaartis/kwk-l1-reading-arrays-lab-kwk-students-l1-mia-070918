@@ -6,11 +6,12 @@ STUDENT_NAMES = [
   "Nicki Minaj",
   "Rihanna"
 ]
-
-def first_student_by_index
+sample = ["bla","bla2"]
+def first_student_by_index(arr)
   return arr[0]
+  
 end
-
+first_student_by_index(STUDENT_NAMES)
 def fourth_student_by_index
   # Write a solution that returns the first student in the array student_names
 end
