@@ -6,13 +6,13 @@ STUDENT_NAMES = [
   "Nicki Minaj",
   "Rihanna"
 ]
-sample = ["bla","bla2"]
-def first_student_by_index(arr)
-  return arr[0]
+sample = ["bla","bla2"] 
+def first_student_by_index(arr) #method 1
+  return arr[0] #what your method returns 
   
-end
-first_student_by_index(STUDENT_NAMES)
-def fourth_student_by_index
+end #end of method 1
+
+def fourth_student_by_index #method 2
   # Write a solution that returns the first student in the array student_names
 end
 
